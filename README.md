@@ -1,3 +1,4 @@
+Salary Analysis:
 #Data Exploration and Data Cleaning with Pandas#
 This is always the first step with any data science project. Let's see if we can answer the following questions: 
 
